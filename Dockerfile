@@ -1,4 +1,4 @@
-FROM openjdk:7
+FROM openjdk:8
 
 ADD instantclient-basic-linux.x64-12.2.0.1.0.zip /tmp
 ADD instantclient-sqlplus-linux.x64-12.2.0.1.0.zip /tmp
